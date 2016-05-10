@@ -1,6 +1,6 @@
 # Dane
 
-Dane.
+Dane!
 
 |Dane|Dane|
 |----|----|
